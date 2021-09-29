@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #517fda;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+p {
+  font-size: 60px;
+}
+
+button {
+  background-color: rgb(111, 192, 30);
+  margin: 5px;
+  height: 100px;
+  width: 100px;
+  font-size: 50px;
+  border: 2px solid white;
+  border-radius: 15px;
+}
